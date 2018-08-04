@@ -1,6 +1,6 @@
-# word_game
+# Word Game
 
-A new Flutter project.
+A simple word game app built with Flutter as part of an online Flutter course.
 
 ## Getting Started
 
